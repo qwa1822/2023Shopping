@@ -2,7 +2,7 @@
 ## 사용언어는 ?
 > React, TypeScript
 
-<a href="shopping-a7cad.web.app"/>
+<shopping-a7cad.web.app>
 
 
 ### 장바구니 추가
